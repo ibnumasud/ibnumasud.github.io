@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adr on Ibnu Mas&#39;ud</title>
+    <link>http://www.masud.id/tags/adr/</link>
+    <description>Recent content in adr on Ibnu Mas&#39;ud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.masud.id/tags/adr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecture Decision Record</title>
+      <link>http://www.masud.id/posts/adr-cheat/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/posts/adr-cheat/</guid>
+      <description>Hello World!&#xA;Akhir-akhir ini sedang baca-baca buku tentang arsitektur. Salah satu yang menjadi bahan diskusi menarik adalah tools-tools dan artefacnya. Salah satunya adalah ADR ini.&#xA;ADR adalah kepanjangan dari architecture decision record, lebih detilnya disana dijelaskan mengenai pengambilan keputusan arsitektur dari zaman dahulu sampai sekarang. Hal ini dirasa penting karena beberapa saat ini suka menemukan proyek-proyek yang tidak ada sejarah dan history arsitekturnya, jadi kita tidak bisa mengetahui contextnya untuk apa, apakah hanya untuk goin with the flow atau memang untuk menyelesaikan masalah yang dihadapi customer.</description>
+    </item>
+  </channel>
+</rss>

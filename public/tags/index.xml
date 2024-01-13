@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ibnu Mas&#39;ud</title>
+    <link>http://www.masud.id/tags/</link>
+    <description>Recent content in Tags on Ibnu Mas&#39;ud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.masud.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>design</title>
+      <link>http://www.masud.id/tags/design/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sprint</title>
+      <link>http://www.masud.id/tags/sprint/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/tags/sprint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>adr</title>
+      <link>http://www.masud.id/tags/adr/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/tags/adr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>architec</title>
+      <link>http://www.masud.id/tags/architec/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/tags/architec/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cheat</title>
+      <link>http://www.masud.id/tags/cheat/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/tags/cheat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>k3s</title>
+      <link>http://www.masud.id/tags/k3s/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/tags/k3s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>lxd</title>
+      <link>http://www.masud.id/tags/lxd/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/tags/lxd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>microk8s</title>
+      <link>http://www.masud.id/tags/microk8s/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/tags/microk8s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>traefic</title>
+      <link>http://www.masud.id/tags/traefic/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/tags/traefic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>zsh</title>
+      <link>http://www.masud.id/tags/zsh/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/tags/zsh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

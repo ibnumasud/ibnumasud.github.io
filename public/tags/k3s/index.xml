@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>k3s on Ibnu Mas&#39;ud</title>
+    <link>http://www.masud.id/tags/k3s/</link>
+    <description>Recent content in k3s on Ibnu Mas&#39;ud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.masud.id/tags/k3s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K3S &amp; Microk8s</title>
+      <link>http://www.masud.id/posts/k3s-microk8s/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/posts/k3s-microk8s/</guid>
+      <description>Note Perlu kernel module tambahan untuk container di lxc Perlu security tambahan terkait root dan namespace storage container overlay2 tidak bisa di zfs setup lxc compatible container Buat LXD nya dahulu lxd init Buat Profile LXC LXC_PROFILE=&amp;#34;k3s&amp;#34; lxc profile copy default ${LXC_PROFILE} lxc profile set ${LXC_PROFILE} security.privileged true lxc profile set ${LXC_PROFILE} security.nesting true lxc profile set ${LXC_PROFILE} limits.memory.swap false lxc profile set ${LXC_PROFILE} linux.kernel_modules overlay,nf_nat,ip_tables,ip6_tables,netlink_diag,br_netfilter,xt_conntrack,nf_conntrack,ip_vs,vxlan lxc profile set ${LXC_PROFILE} linux.</description>
+    </item>
+    <item>
+      <title>K3S &amp; Traefic2</title>
+      <link>http://www.masud.id/posts/k3s-traefic/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/posts/k3s-traefic/</guid>
+      <description>Note K3S default sudah memakai traefic sebagai ingress, akan tetapi masih pakai versi yang 1.7 Traefic 2 sudah bisa pakai let&amp;rsquo;s encrypt buat ingressnya coba install pakai helm Install K3S tanpa traefic curl -sfL https://get.k3s.io | sh -s - --disable=traefik k3s check-config #cek konfigurasi sudo cat /var/lib/rancher/k3s/server/node-token #kalau mau pakai cluster Install Traefic pakai HELM Helm adalah paket marager kubernetes seperti apt atau yum tapi buat kuebernetes, cara installnya disini</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ibnu Mas&#39;ud</title>
+    <link>http://www.masud.id/authors/ibnu-masud/</link>
+    <description>Recent content on Ibnu Mas&#39;ud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.masud.id/authors/ibnu-masud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Sprint</title>
+      <link>http://www.masud.id/posts/design-sprint/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/posts/design-sprint/</guid>
+      <description>Hello World!&#xA;Apa sih design sprint itu? Sekarang sudah ada berbagaimacam buzzword untuk merancang dan mengeksekusi sebuah inisiatif digital. Bisa dilihat, ada lean canvas, design thingking, design sprint, agile development dan teman-temaannyaaa.&#xA;Lalu kapankah kita memakai tiap-tiap buzzword tersebut, khususnya design sprint? Ada baiknya kita berkenalan dahulu. Kalau mau yang langsung cek di bukunya bisaa lihat disini.&#xA;Jadi berdasarkan hasil eksplorasi dan baca-baca kapan sih kita pakai design sprint itu ketika :</description>
+    </item>
+    <item>
+      <title>Architecture Decision Record</title>
+      <link>http://www.masud.id/posts/adr-cheat/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/posts/adr-cheat/</guid>
+      <description>Hello World!&#xA;Akhir-akhir ini sedang baca-baca buku tentang arsitektur. Salah satu yang menjadi bahan diskusi menarik adalah tools-tools dan artefacnya. Salah satunya adalah ADR ini.&#xA;ADR adalah kepanjangan dari architecture decision record, lebih detilnya disana dijelaskan mengenai pengambilan keputusan arsitektur dari zaman dahulu sampai sekarang. Hal ini dirasa penting karena beberapa saat ini suka menemukan proyek-proyek yang tidak ada sejarah dan history arsitekturnya, jadi kita tidak bisa mengetahui contextnya untuk apa, apakah hanya untuk goin with the flow atau memang untuk menyelesaikan masalah yang dihadapi customer.</description>
+    </item>
+    <item>
+      <title>K3S &amp; Microk8s</title>
+      <link>http://www.masud.id/posts/k3s-microk8s/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/posts/k3s-microk8s/</guid>
+      <description>Note Perlu kernel module tambahan untuk container di lxc Perlu security tambahan terkait root dan namespace storage container overlay2 tidak bisa di zfs setup lxc compatible container Buat LXD nya dahulu lxd init Buat Profile LXC LXC_PROFILE=&amp;#34;k3s&amp;#34; lxc profile copy default ${LXC_PROFILE} lxc profile set ${LXC_PROFILE} security.privileged true lxc profile set ${LXC_PROFILE} security.nesting true lxc profile set ${LXC_PROFILE} limits.memory.swap false lxc profile set ${LXC_PROFILE} linux.kernel_modules overlay,nf_nat,ip_tables,ip6_tables,netlink_diag,br_netfilter,xt_conntrack,nf_conntrack,ip_vs,vxlan lxc profile set ${LXC_PROFILE} linux.</description>
+    </item>
+    <item>
+      <title>K3S &amp; Traefic2</title>
+      <link>http://www.masud.id/posts/k3s-traefic/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/posts/k3s-traefic/</guid>
+      <description>Note K3S default sudah memakai traefic sebagai ingress, akan tetapi masih pakai versi yang 1.7 Traefic 2 sudah bisa pakai let&amp;rsquo;s encrypt buat ingressnya coba install pakai helm Install K3S tanpa traefic curl -sfL https://get.k3s.io | sh -s - --disable=traefik k3s check-config #cek konfigurasi sudo cat /var/lib/rancher/k3s/server/node-token #kalau mau pakai cluster Install Traefic pakai HELM Helm adalah paket marager kubernetes seperti apt atau yum tapi buat kuebernetes, cara installnya disini</description>
+    </item>
+    <item>
+      <title>ZSH Cheat Sheet</title>
+      <link>http://www.masud.id/posts/zsh-cheat/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.masud.id/posts/zsh-cheat/</guid>
+      <description>zfs create -V 20GB my-pool/docker/blah mkfs.btrfs /dev/zvol/my-pool/docker/blah lxc config device add my-container docker disk source=/dev/zvol/my-pool/docker/blah path=/var/lib/docker </description>
+    </item>
+  </channel>
+</rss>
