@@ -6,7 +6,7 @@ theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-paginate = 10
+paginate = 20
 
 pygmentsStyle = "b2"
 pygmentsCodeFences = true
@@ -119,8 +119,3 @@ disqusShortname = "masud-id"
             name = "Blog"
             weight = 2
             url = "posts/"
-
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3
-            url = "projects/"
