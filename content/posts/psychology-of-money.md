@@ -1,5 +1,4 @@
 +++ 
-draft = true
 date = 2024-01-14T08:41:40+07:00
 title = "Review : The Psychology Of Money"
 description = ""
