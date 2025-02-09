@@ -54,7 +54,7 @@ Selain itu robin sharma juga menjelaskan tips untuk fokus ketika menjalani hari 
    - Singkirkan potensi gangguan
    - Siapkan peralatan yang dibutuhkan sebelum mulai bekerja
 
-Begitu kids, semoga bermanfaat.
+Begitu kids, semoga bermanfaat, wake up early and win the day.
 
 Best Regards,
 
