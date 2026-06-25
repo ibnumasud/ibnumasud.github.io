@@ -17,7 +17,7 @@ spec:
         - name: ghcr-secret
       containers:
         - name: site
-          image: ghcr.io/ibnumasud/ibnumasud.github.io:latest
+          image: ghcr.io/ibnumasud/ibnumasud.github.io:1d59f30d59e426b3694974df1f12466b1a3e1402
           ports:
             - containerPort: 80
           resources:
